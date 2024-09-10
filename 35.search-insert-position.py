@@ -25,5 +25,11 @@ class Solution(object):
                 right = mid - 1
         
         return left
+    
+    
+#Complexidade de Tempo: O(log n)
+#Complexidade de Espaço: O(1)
+
+
 # @lc code=end
 
