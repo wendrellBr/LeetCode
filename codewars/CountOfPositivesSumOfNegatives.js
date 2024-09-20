@@ -16,4 +16,3 @@ function countPositivesSumNegatives(input) {
 
   return [countPositives, sumNegatives];
 }
-  
